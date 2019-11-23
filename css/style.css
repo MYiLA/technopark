@@ -2296,15 +2296,10 @@ body.fixed {
   padding: 10px 0;
   z-index: 2; }
 
-.footer-cta.static {
-  width: 100%; }
-
-.footer-cta.fixed {
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  z-index: 10;
-  width: 100%; }
+.footer-cta {
+  position: -webkit-sticky;
+  position: sticky;
+  bottom: 0; }
 
 .footer-cta ul {
   text-align: center;
