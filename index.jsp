@@ -30,12 +30,12 @@
 	<meta property="og:url" content="https://www.lg.com/ru/washing-machines/truesteam/">
 	<meta property="og:keywords"
 		content="lg styler, бережный уход, технология пара true steam, удаление складок, бережная сушка" />
-	<meta property="og:image" content="https://www.lg.com/ru/washing-machines/truesteam/share.jpg?v=1574571412263">
+	<meta property="og:image" content="https://www.lg.com/ru/washing-machines/truesteam/share.jpg?v=1574634581364">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<%@ include file="/applications/ru/includes/styles.jsp"%>
-	<link rel="stylesheet" href="/ru/washing-machines/truesteam/css/owl.carousel.min.css?v=1574571412263">
-	<link rel="stylesheet" href="/ru/washing-machines/truesteam/css/jquery.mCustomScrollbar.min.css?v=1574571412263">
-	<link rel="stylesheet" href="/ru/washing-machines/truesteam/css/style.css?v=1574571412263">
+	<link rel="stylesheet" href="/ru/washing-machines/truesteam/css/owl.carousel.min.css?v=1574634581364">
+	<link rel="stylesheet" href="/ru/washing-machines/truesteam/css/jquery.mCustomScrollbar.min.css?v=1574634581364">
+	<link rel="stylesheet" href="/ru/washing-machines/truesteam/css/style.css?v=1574634581364">
 
 	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-4S9T" height="0" width="0"
 			style="display:none;visibility:hidden"></iframe></noscript>
@@ -67,11 +67,11 @@
 	<%@ include file="/applications/ru/includes/header.jsp"%>
 	<div class="banner-wrap">
 		<div class="banner-main">
-			<!-- <img src="/ru/washing-machines/truesteam/img/main-banner.jpg?v=1574571412263" alt="" class="desk"> -->
-			<img src="/ru/washing-machines/truesteam/img/main-banner-mirror_desktop.jpg?v=1574571412263" alt="" class="desk">
-			<!-- <img src="/ru/washing-machines/truesteam/img/hero_ST-front_int1.png?v=1574571412263" alt="" class="desk parallax"> -->
+			<!-- <img src="/ru/washing-machines/truesteam/img/main-banner.jpg?v=1574634581364" alt="" class="desk"> -->
+			<img src="/ru/washing-machines/truesteam/img/main-banner-mirror_desktop.jpg?v=1574634581364" alt="" class="desk">
+			<!-- <img src="/ru/washing-machines/truesteam/img/hero_ST-front_int1.png?v=1574634581364" alt="" class="desk parallax"> -->
 
-			<img src="/ru/washing-machines/truesteam/img/main-banner-mirror_mob.jpg?v=1574571412263" alt="" class="mob">
+			<img src="/ru/washing-machines/truesteam/img/main-banner-mirror_mob.jpg?v=1574634581364" alt="" class="mob">
 			<div class="banner-text">
 				<!-- 			<div class="banner-logo">
 				<img src="/ru/washing-machines/truesteam/img/styler-logo.svg" alt="LG Styler">
@@ -142,7 +142,7 @@
 			<div class="content-block-inner">
 				<div class="content-col title-col">
 					<div class="content-logo">
-						<img src="/ru/washing-machines/truesteam/img/styler-logo.svg?v=1574571412263" alt="Бережный уход за деликатными тканями">
+						<img src="/ru/washing-machines/truesteam/img/styler-logo.svg?v=1574634581364" alt="Бережный уход за деликатными тканями">
 					</div>
 				</div>
 				<div class="content-col big ">
@@ -155,13 +155,13 @@
 					<div class="feature-content-col">
 						<div class="feature-col-inner">
 							<div class="real-bg">
-								<img src="/ru/washing-machines/truesteam/img/elements/feature-content-cottage.jpg?v=1574571412263"
+								<img src="/ru/washing-machines/truesteam/img/elements/feature-content-cottage.jpg?v=1574634581364"
 									alt="Лаконичный и современный дизайн" class="real-bg-img">
 							</div>
 							<!-- 						<div class="prod">
-							<img src="/ru/washing-machines/truesteam/img/elements/dress_styler.png?v=1574571412263" alt="Придание свежего вида">
+							<img src="/ru/washing-machines/truesteam/img/elements/dress_styler.png?v=1574634581364" alt="Придание свежего вида">
 						</div> -->
-							<img src="/ru/washing-machines/truesteam/img/elements/feature-content-cottage.jpg?v=1574571412263"
+							<img src="/ru/washing-machines/truesteam/img/elements/feature-content-cottage.jpg?v=1574634581364"
 								alt="Лаконичный и современный дизайн" class="fake-bg">
 							<div class="feature-content white">
 								<div class="feature-title">
@@ -176,13 +176,13 @@
 						</div>
 					</div>
 					<div class="feature-img-col animate animate-right">
-						<img src="/ru/washing-machines/truesteam/img/elements/feature-img-official.jpg?v=1574571412263"
+						<img src="/ru/washing-machines/truesteam/img/elements/feature-img-official.jpg?v=1574634581364"
 							alt="LG Styler с зеркальной дверью в строгом интерьере" class="mob">
-						<img src="/ru/washing-machines/truesteam/img/elements/feature-img-official.jpg?v=1574571412263"
+						<img src="/ru/washing-machines/truesteam/img/elements/feature-img-official.jpg?v=1574634581364"
 							alt="LG Styler с зеркальной дверью в строгом интерьере" class="desk"></img>
 						<!-- <div class="feature-point">
 							<div class="point-img animate animate-right">
-								<img src="/ru/washing-machines/truesteam/img/dress-ico.png?v=1574571412263" alt="Придание свежего вида">
+								<img src="/ru/washing-machines/truesteam/img/dress-ico.png?v=1574634581364" alt="Придание свежего вида">
 							</div>
 							<div class="point-text animate">
 								Я&nbsp;&mdash; платье, мне нельзя
@@ -195,19 +195,19 @@
 					<div class="feature-content-col ">
 						<div class="feature-col-inner">
 							<div class="real-bg">
-								<img src="/ru/washing-machines/truesteam/img/elements/feature-content-wardrobe.jpg?v=1574571412263"
+								<img src="/ru/washing-machines/truesteam/img/elements/feature-content-wardrobe.jpg?v=1574634581364"
 									alt="Устранение запахов благодаря функции пара" class="real-bg-img">
 							</div>
 							<!-- <div class="prod"> -->
-							<!-- <img src="/ru/washing-machines/truesteam/img/elements/bear_styler.png?v=1574571412263" alt="Придание свежего вида" class="real-bg-img"> -->
+							<!-- <img src="/ru/washing-machines/truesteam/img/elements/bear_styler.png?v=1574634581364" alt="Придание свежего вида" class="real-bg-img"> -->
 							<!-- </div> -->
 							<div class="disclamer">
 								*По данным внутренних исследований
 							</div>
 							<!-- <div class="baf">
-								<img src="/ru/washing-machines/truesteam/img/BAF_logo.png?v=1574571412263" alt="BAF">
+								<img src="/ru/washing-machines/truesteam/img/BAF_logo.png?v=1574634581364" alt="BAF">
 							</div> -->
-							<img src="/ru/washing-machines/truesteam/img/elements/feature-content-wardrobe.jpg?v=1574571412263"
+							<img src="/ru/washing-machines/truesteam/img/elements/feature-content-wardrobe.jpg?v=1574634581364"
 								alt="Устранение запахов благодаря функции пара" class="fake-bg">
 							<div class="feature-content white">
 								<div class="feature-title">
@@ -224,13 +224,13 @@
 						</div>
 					</div>
 					<div class="feature-img-col animate animate-left">
-						<img src="/ru/washing-machines/truesteam/img/elements/feature-img-clothes.jpg?v=1574571412263"
+						<img src="/ru/washing-machines/truesteam/img/elements/feature-img-clothes.jpg?v=1574634581364"
 							alt="LG Styler придает одежде свежесть и ухоженность" class="mob">
-						<img src="/ru/washing-machines/truesteam/img/elements/feature-img-clothes.jpg?v=1574571412263"
+						<img src="/ru/washing-machines/truesteam/img/elements/feature-img-clothes.jpg?v=1574634581364"
 							alt="LG Styler придает одежде свежесть и ухоженность" class="desk"></img>
 						<!-- <div class="feature-point">
 							<div class="point-img animate animate-left">
-								<img src="/ru/washing-machines/truesteam/img/bear-ico.png?v=1574571412263" alt="Защита от аллергии">
+								<img src="/ru/washing-machines/truesteam/img/bear-ico.png?v=1574634581364" alt="Защита от аллергии">
 							</div>
 							<div class="point-text animate ">
 								Я&nbsp;&mdash; плюшевый медведь, на мне не должны жить микробы
@@ -242,14 +242,14 @@
 					<div class="feature-content-col ">
 						<div class="feature-col-inner">
 							<div class="real-bg">
-								<img src="/ru/washing-machines/truesteam/img/elements/ts-bg-3.jpg?v=1574571412263" alt="Бережная сушка деликатных тканей"
+								<img src="/ru/washing-machines/truesteam/img/elements/ts-bg-3.jpg?v=1574634581364" alt="Бережная сушка деликатных тканей"
 									class="real-bg-img">
 							</div>
 							<!-- <div class="prod">
 							
-							<img src="/ru/washing-machines/truesteam/img/elements/coat_styler.png?v=1574571412263" alt="Придание свежего вида">
+							<img src="/ru/washing-machines/truesteam/img/elements/coat_styler.png?v=1574634581364" alt="Придание свежего вида">
 						</div>
- --> <img src="/ru/washing-machines/truesteam/img/elements/coat_bg1.png?v=1574571412263" alt="Бережная сушка деликатных тканей" class="fake-bg">
+ --> <img src="/ru/washing-machines/truesteam/img/elements/coat_bg1.png?v=1574634581364" alt="Бережная сушка деликатных тканей" class="fake-bg">
 							<div class="feature-content white">
 								<div class="feature-title">
 									Бережно высушит
@@ -264,13 +264,13 @@
 						</div>
 					</div>
 					<div class="feature-img-col animate animate-left">
-						<img src="/ru/washing-machines/truesteam/img/elements/feature-img-white-sweater.jpg?v=1574571412263"
+						<img src="/ru/washing-machines/truesteam/img/elements/feature-img-white-sweater.jpg?v=1574634581364"
 							alt="Бережная сушка деликатных тканей" class="mob">
-						<img src="/ru/washing-machines/truesteam/img/elements/feature-img-white-sweater.jpg?v=1574571412263"
+						<img src="/ru/washing-machines/truesteam/img/elements/feature-img-white-sweater.jpg?v=1574634581364"
 							alt="Бережная сушка деликатных тканей" class="desk"></img>
 						<!-- <div class="feature-point">
 							<div class="point-img animate animate-right">
-								<img src="/ru/washing-machines/truesteam/img/coat-ico.png?v=1574571412263" alt="Бережная сушка деликатных тканей">
+								<img src="/ru/washing-machines/truesteam/img/coat-ico.png?v=1574634581364" alt="Бережная сушка деликатных тканей">
 							</div>
 							<div class="point-text animate ">
 								Я&nbsp;&mdash; кашемировое пальто, меня нельзя мочить под дождем
@@ -282,16 +282,16 @@
 					<div class="feature-content-col ">
 						<div class="feature-col-inner">
 							<div class="real-bg">
-								<img src="/ru/washing-machines/truesteam/img/elements/feature-content-white-room.jpg?v=1574571412263"
+								<img src="/ru/washing-machines/truesteam/img/elements/feature-content-white-room.jpg?v=1574634581364"
 									alt="LG Styler в светлом и чистом интерьере" class="real-bg-img">
 							</div>
 							<!-- <div class="prod">
-							<img src="/ru/washing-machines/truesteam/img/elements/shirts_styler.png?v=1574571412263" alt="Придание свежего вида">
+							<img src="/ru/washing-machines/truesteam/img/elements/shirts_styler.png?v=1574634581364" alt="Придание свежего вида">
 							
 						</div> -->
-							<img src="/ru/washing-machines/truesteam/img/elements/feature-content-white-room.jpg?v=1574571412263"
+							<img src="/ru/washing-machines/truesteam/img/elements/feature-content-white-room.jpg?v=1574634581364"
 								alt="LG Styler в светлом и чистом интерьере" class="fake-bg">
-							<!-- <img src="/ru/washing-machines/truesteam/img/elements/shirts_steam.png?v=1574571412263" alt="Придание свежего вида" class="prod-1"> -->
+							<!-- <img src="/ru/washing-machines/truesteam/img/elements/shirts_steam.png?v=1574634581364" alt="Придание свежего вида" class="prod-1"> -->
 							<div class="feature-content white">
 								<div class="feature-title">
 									Эффективная защита от&nbsp;аллергенов
@@ -304,13 +304,13 @@
 						</div>
 					</div>
 					<div class="feature-img-col animate animate-left">
-						<img src="/ru/washing-machines/truesteam/img/elements/feature-img-pillows.jpg?v=1574571412263" alt="Защита от аллергии" class="mob">
-						<img src="/ru/washing-machines/truesteam/img/elements/feature-img-pillows.jpg?v=1574571412263" alt="Защита от аллергии"
+						<img src="/ru/washing-machines/truesteam/img/elements/feature-img-pillows.jpg?v=1574634581364" alt="Защита от аллергии" class="mob">
+						<img src="/ru/washing-machines/truesteam/img/elements/feature-img-pillows.jpg?v=1574634581364" alt="Защита от аллергии"
 							class="desk"></video>
-						<!-- <img src="/ru/washing-machines/truesteam/img/cook.jpg?v=1574571412263" alt="Устранение запахов благодаря функции пара"> -->
+						<!-- <img src="/ru/washing-machines/truesteam/img/cook.jpg?v=1574634581364" alt="Устранение запахов благодаря функции пара"> -->
 						<!-- <div class="feature-point">
 							<div class="point-img animate animate-right">
-								<img src="/ru/washing-machines/truesteam/img/shirt-ico.png?v=1574571412263" alt="Устранение запахов благодаря функции пара">
+								<img src="/ru/washing-machines/truesteam/img/shirt-ico.png?v=1574634581364" alt="Устранение запахов благодаря функции пара">
 							</div>
 							<div class="point-text animate ">
 								Я&nbsp;из&nbsp;хлопка, мне не&nbsp;подойдет запах рыбы
@@ -322,13 +322,13 @@
 					<div class="feature-content-col hover-left">
 						<div class="feature-col-inner">
 							<div class="real-bg">
-								<img src="/ru/washing-machines/truesteam/img/elements/feature-content-bedroom.jpg?v=1574571412263"
+								<img src="/ru/washing-machines/truesteam/img/elements/feature-content-bedroom.jpg?v=1574634581364"
 									alt="LG Styler стильно вписан в гардероб спальни" class="real-bg-img">
 							</div>
 							<!-- <div class="prod">
-							<img src="/ru/washing-machines/truesteam/img/elements/jacket_styler.png?v=1574571412263" alt="Придание свежего вида">
+							<img src="/ru/washing-machines/truesteam/img/elements/jacket_styler.png?v=1574634581364" alt="Придание свежего вида">
 						</div> -->
-							<img src="/ru/washing-machines/truesteam/img/elements/feature-content-bedroom.jpg?v=1574571412263"
+							<img src="/ru/washing-machines/truesteam/img/elements/feature-content-bedroom.jpg?v=1574634581364"
 								alt="LG Styler стильно вписан в гардероб спальни" class="fake-bg">
 							<div class="feature-content white">
 								<div class="feature-title">
@@ -343,13 +343,13 @@
 						</div>
 					</div>
 					<div class="feature-img-col animate animate-right">
-						<img src="/ru/washing-machines/truesteam/img/elements/feature-img-pants.jpg?v=1574571412263" alt="Стильный уход за вашими брюками"
+						<img src="/ru/washing-machines/truesteam/img/elements/feature-img-pants.jpg?v=1574634581364" alt="Стильный уход за вашими брюками"
 							class="mob">
-						<img src="/ru/washing-machines/truesteam/img/elements/feature-img-pants.jpg?v=1574571412263" alt="Стильный уход за вашими брюками"
+						<img src="/ru/washing-machines/truesteam/img/elements/feature-img-pants.jpg?v=1574634581364" alt="Стильный уход за вашими брюками"
 							class="desk"></img>
 						<!-- <div class="feature-point">
 							<div class="point-img animate animate-right">
-								<img src="/ru/washing-machines/truesteam/img/jack-ico.png?v=1574571412263" alt="Удаление складок на одежде без утюга">
+								<img src="/ru/washing-machines/truesteam/img/jack-ico.png?v=1574634581364" alt="Удаление складок на одежде без утюга">
 							</div>
 							<div class="point-text animate">
 								Я&nbsp;&mdash; дорогой пиджак, а&nbsp;не&nbsp;подушка, меня нельзя просто так мять
@@ -361,7 +361,7 @@
 			<!-- <div class="steam-treatment-block">
 			<div class="steam-treatment-inner">
 				<div class="steam-treatment-img-col">
-					<img src="/ru/washing-machines/truesteam/img/slider-ex.png?v=1574571412263" alt="">
+					<img src="/ru/washing-machines/truesteam/img/slider-ex.png?v=1574634581364" alt="">
 				</div>
 				<div class="steam-treatment-content-col">
 					<div class="steam-treatment-title">
@@ -389,18 +389,18 @@
 							<div id="player"></div>
 							<div class="gallery-item-inner" data-src="cVOcVrmE0yo">
 								<!-- <div class="play">
-									<img src="/ru/washing-machines/truesteam/img/play.png?v=1574571412263" alt="">
+									<img src="/ru/washing-machines/truesteam/img/play.png?v=1574634581364" alt="">
 								</div> -->
-								<img src="/ru/washing-machines/truesteam/img/vid-1.jpg?v=1574571412263" alt="LG Styler">
+								<img src="/ru/washing-machines/truesteam/img/vid-1.jpg?v=1574634581364" alt="LG Styler">
 							</div>
 						</div>
 						<div class="gallery-list u-animate owl-carousel">
 							<div class="gallery-item">
 								<div class="gallery-item-inner" data-src="74BIqjbdfI0">
 									<div class="play">
-										<img src="/ru/washing-machines/truesteam/img/play.png?v=1574571412263" alt="">
+										<img src="/ru/washing-machines/truesteam/img/play.png?v=1574634581364" alt="">
 									</div>
-									<img src="/ru/washing-machines/truesteam/img/vid-2.jpg?v=1574571412263" alt="Гипоаллергенный уход">
+									<img src="/ru/washing-machines/truesteam/img/vid-2.jpg?v=1574634581364" alt="Гипоаллергенный уход">
 								</div>
 								<div class="gallery-text">
 									Гипоаллергенный уход
@@ -409,9 +409,9 @@
 							<div class="gallery-item">
 								<div class="gallery-item-inner" data-src="Ak0326i8TlE">
 									<div class="play">
-										<img src="/ru/washing-machines/truesteam/img/play.png?v=1574571412263" alt="">
+										<img src="/ru/washing-machines/truesteam/img/play.png?v=1574634581364" alt="">
 									</div>
-									<img src="/ru/washing-machines/truesteam/img/vid-3.jpg?v=1574571412263" alt="Удаление складок">
+									<img src="/ru/washing-machines/truesteam/img/vid-3.jpg?v=1574634581364" alt="Удаление складок">
 								</div>
 								<div class="gallery-text">
 									Удаление складок
@@ -420,9 +420,9 @@
 							<div class="gallery-item">
 								<div class="gallery-item-inner" data-src="c4umr-TZFqQ">
 									<div class="play">
-										<img src="/ru/washing-machines/truesteam/img/play.png?v=1574571412263" alt="">
+										<img src="/ru/washing-machines/truesteam/img/play.png?v=1574634581364" alt="">
 									</div>
-									<img src="/ru/washing-machines/truesteam/img/vid-4.jpg?v=1574571412263" alt="Бережная сушка">
+									<img src="/ru/washing-machines/truesteam/img/vid-4.jpg?v=1574634581364" alt="Бережная сушка">
 								</div>
 								<div class="gallery-text">
 									Бережная сушка
@@ -431,9 +431,9 @@
 							<div class="gallery-item">
 								<div class="gallery-item-inner" data-src="yAPWfznlvjI">
 									<div class="play">
-										<img src="/ru/washing-machines/truesteam/img/play.png?v=1574571412263" alt="">
+										<img src="/ru/washing-machines/truesteam/img/play.png?v=1574634581364" alt="">
 									</div>
-									<img src="/ru/washing-machines/truesteam/img/vid-5.jpg?v=1574571412263" alt="Пресс для брюк">
+									<img src="/ru/washing-machines/truesteam/img/vid-5.jpg?v=1574634581364" alt="Пресс для брюк">
 								</div>
 								<div class="gallery-text">
 									Пресс для брюк
@@ -442,9 +442,9 @@
 							<div class="gallery-item">
 								<div class="gallery-item-inner" data-src="834AN9soRJk">
 									<div class="play">
-										<img src="/ru/washing-machines/truesteam/img/play.png?v=1574571412263" alt="">
+										<img src="/ru/washing-machines/truesteam/img/play.png?v=1574634581364" alt="">
 									</div>
-									<img src="/ru/washing-machines/truesteam/img/vid-6.jpg?v=1574571412263" alt="Дополнительные программы">
+									<img src="/ru/washing-machines/truesteam/img/vid-6.jpg?v=1574634581364" alt="Дополнительные программы">
 								</div>
 								<div class="gallery-text">
 									Дополнительные программы
@@ -498,89 +498,89 @@
 				<div class="slider-col">
 					<div class="slider owl-carousel" data-id="2">
 						<!-- <div class="item">
-							<img src="/ru/washing-machines/truesteam/img/black/large_01.jpg?v=1574571412263" alt="">
+							<img src="/ru/washing-machines/truesteam/img/black/large_01.jpg?v=1574634581364" alt="">
 						</div> -->
 						<div class="item">
-							<img src="/ru/washing-machines/truesteam/img/gray/large_02.jpg?v=1574571412263" alt="">
+							<img src="/ru/washing-machines/truesteam/img/gray/large_02.jpg?v=1574634581364" alt="">
 						</div>
 						<div class="item">
-							<img src="/ru/washing-machines/truesteam/img/gray/large_03.jpg?v=1574571412263" alt="">
+							<img src="/ru/washing-machines/truesteam/img/gray/large_03.jpg?v=1574634581364" alt="">
 						</div>
 						<div class="item">
-							<img src="/ru/washing-machines/truesteam/img/gray/large_04.jpg?v=1574571412263" alt="">
+							<img src="/ru/washing-machines/truesteam/img/gray/large_04.jpg?v=1574634581364" alt="">
 						</div>
 						<div class="item">
-							<img src="/ru/washing-machines/truesteam/img/gray/large_05.jpg?v=1574571412263" alt="">
+							<img src="/ru/washing-machines/truesteam/img/gray/large_05.jpg?v=1574634581364" alt="">
 						</div>
 						<div class="item">
-							<img src="/ru/washing-machines/truesteam/img/gray/large_10.jpg?v=1574571412263" alt="">
+							<img src="/ru/washing-machines/truesteam/img/gray/large_10.jpg?v=1574634581364" alt="">
 						</div>
 					</div>
 					<div class="slider owl-carousel" data-id="1">
 						<!-- <div class="item">
-						<img src="/ru/washing-machines/truesteam/img/black/large_01.jpg?v=1574571412263" alt="">
+						<img src="/ru/washing-machines/truesteam/img/black/large_01.jpg?v=1574634581364" alt="">
 					</div> -->
 						<div class="item">
-							<img src="/ru/washing-machines/truesteam/img/black/large_02.jpg?v=1574571412263" alt="">
+							<img src="/ru/washing-machines/truesteam/img/black/large_02.jpg?v=1574634581364" alt="">
 						</div>
 						<div class="item">
-							<img src="/ru/washing-machines/truesteam/img/black/large_03.jpg?v=1574571412263" alt="">
+							<img src="/ru/washing-machines/truesteam/img/black/large_03.jpg?v=1574634581364" alt="">
 						</div>
 						<div class="item">
-							<img src="/ru/washing-machines/truesteam/img/black/large_04.jpg?v=1574571412263" alt="">
+							<img src="/ru/washing-machines/truesteam/img/black/large_04.jpg?v=1574634581364" alt="">
 						</div>
 						<div class="item">
-							<img src="/ru/washing-machines/truesteam/img/black/large_05.jpg?v=1574571412263" alt="">
+							<img src="/ru/washing-machines/truesteam/img/black/large_05.jpg?v=1574634581364" alt="">
 						</div>
 						<div class="item">
-							<img src="/ru/washing-machines/truesteam/img/black/large_06.jpg?v=1574571412263" alt="">
+							<img src="/ru/washing-machines/truesteam/img/black/large_06.jpg?v=1574634581364" alt="">
 						</div>
 					</div>
 
 					<div class="slider owl-carousel" data-id="3">
 						<div class="item">
-							<img src="/ru/washing-machines/truesteam/img/s5bb/large1.jpg?v=1574571412263" alt="">
+							<img src="/ru/washing-machines/truesteam/img/s5bb/large1.jpg?v=1574634581364" alt="">
 						</div>
 						<div class="item">
-							<img src="/ru/washing-machines/truesteam/img/s5bb/large2.jpg?v=1574571412263" alt="">
+							<img src="/ru/washing-machines/truesteam/img/s5bb/large2.jpg?v=1574634581364" alt="">
 						</div>
 						<div class="item">
-							<img src="/ru/washing-machines/truesteam/img/s5bb/large3.jpg?v=1574571412263" alt="">
+							<img src="/ru/washing-machines/truesteam/img/s5bb/large3.jpg?v=1574634581364" alt="">
 						</div>
 						<div class="item">
-							<img src="/ru/washing-machines/truesteam/img/s5bb/large4.jpg?v=1574571412263" alt="">
+							<img src="/ru/washing-machines/truesteam/img/s5bb/large4.jpg?v=1574634581364" alt="">
 						</div>
 						<div class="item">
-							<img src="/ru/washing-machines/truesteam/img/s5bb/large5.jpg?v=1574571412263" alt="">
+							<img src="/ru/washing-machines/truesteam/img/s5bb/large5.jpg?v=1574634581364" alt="">
 						</div>
 					</div>
 					<div class="slider owl-carousel active" data-id="4">
 						<div class="item">
-							<img src="/ru/washing-machines/truesteam/img/s5mb/large1.jpg?v=1574571412263" alt="">
+							<img src="/ru/washing-machines/truesteam/img/s5mb/large1.jpg?v=1574634581364" alt="">
 						</div>
 						<div class="item">
-							<img src="/ru/washing-machines/truesteam/img/s5mb/large2.jpg?v=1574571412263" alt="">
+							<img src="/ru/washing-machines/truesteam/img/s5mb/large2.jpg?v=1574634581364" alt="">
 						</div>
 						<div class="item">
-							<img src="/ru/washing-machines/truesteam/img/s5mb/large3.jpg?v=1574571412263" alt="">
+							<img src="/ru/washing-machines/truesteam/img/s5mb/large3.jpg?v=1574634581364" alt="">
 						</div>
 						<div class="item">
-							<img src="/ru/washing-machines/truesteam/img/s5mb/large4.jpg?v=1574571412263" alt="">
+							<img src="/ru/washing-machines/truesteam/img/s5mb/large4.jpg?v=1574634581364" alt="">
 						</div>
 					</div>
 				</div>
 				<div class="content-col">
 					<!-- <div class="tab-title">
-					<img src="/ru/washing-machines/truesteam/img/styler-logo.svg?v=1574571412263" alt="">
+					<img src="/ru/washing-machines/truesteam/img/styler-logo.svg?v=1574634581364" alt="">
 				</div> -->
 					<div class="tabs-models">
 						<div class="tab-model active" data-model="S5MB">
 							<div class="tab-model-img">
-								<img src="/ru/washing-machines/truesteam/img/tab_S5MB.png?v=1574571412263" alt="">
+								<img src="/ru/washing-machines/truesteam/img/tab_S5MB.png?v=1574634581364" alt="">
 							</div>
 							<div class="tab-model-info">
 								<div class="tab-model-logo">
-									<img src="/ru/washing-machines/truesteam/img/Styler_Color.svg?v=1574571412263" alt="">
+									<img src="/ru/washing-machines/truesteam/img/Styler_Color.svg?v=1574634581364" alt="">
 								</div>
 								<div class="tab-model-articul">
 									LG&nbsp;S5MB
@@ -589,11 +589,11 @@
 						</div>
 						<div class="tab-model " data-model="S3RERB">
 							<div class="tab-model-img">
-								<img src="/ru/washing-machines/truesteam/img/tab_S3RERB.png?v=1574571412263" alt="">
+								<img src="/ru/washing-machines/truesteam/img/tab_S3RERB.png?v=1574634581364" alt="">
 							</div>
 							<div class="tab-model-info">
 								<div class="tab-model-logo">
-									<img class="S3RERB" src="/ru/washing-machines/truesteam/img/Styler_Color.svg?v=1574571412263" alt="">
+									<img class="S3RERB" src="/ru/washing-machines/truesteam/img/Styler_Color.svg?v=1574634581364" alt="">
 								</div>
 								<div class="tab-model-articul">
 									LG&nbsp;S3RERB
@@ -604,11 +604,11 @@
 							data-shop="https://rushop.lg.com/product/lg-styler-sistema-uhoda-za-odezhdoy-stayler-s5bb"
 							data-wtb="/ru/products/wtb?modelId=MD06052637">
 							<div class="tab-model-img">
-								<img src="/ru/washing-machines/truesteam/img/tab_S5BB.png?v=1574571412263" alt="">
+								<img src="/ru/washing-machines/truesteam/img/tab_S5BB.png?v=1574634581364" alt="">
 							</div>
 							<div class="tab-model-info">
 								<div class="tab-model-logo">
-									<img src="/ru/washing-machines/truesteam/img/Styler_Color.svg?v=1574571412263" alt="">
+									<img src="/ru/washing-machines/truesteam/img/Styler_Color.svg?v=1574634581364" alt="">
 								</div>
 								<div class="tab-model-articul">
 									LG&nbsp;S5BB
@@ -675,7 +675,7 @@
 							<div class="price-text S5MB">Рекомендуемая цена : 179&nbsp;990&nbsp;руб.</div>
 							<div class="price-info">
 								<a href="javascript:void(0);" class="tooltip-button">
-									<img src="/ru/washing-machines/truesteam/img/i.png?v=1574571412263" alt="">
+									<img src="/ru/washing-machines/truesteam/img/i.png?v=1574634581364" alt="">
 								</a>
 								<div class="tooltip">
 									Пожалуйста, примите во&nbsp;внимание, что политика ООО ЛГ&nbsp;Электроникс РУС предполагает полную
@@ -712,7 +712,7 @@
 					Бережный уход за&nbsp;деликатными тканями
 				</div>
 			</div>
-			<img src="/ru/washing-machines/truesteam/img/banner-bottom.jpg?v=1574571412263" alt="">
+			<img src="/ru/washing-machines/truesteam/img/banner-bottom.jpg?v=1574634581364" alt="">
 		</div>
 		<div class="disclamer-block">
 		
@@ -929,14 +929,14 @@
 			</div>
 		</div>
 	</div>
-	<div class="popup-close"><img src="/ru/washing-machines/truesteam/img/close.png?v=1574571412263" alt=""></div>
-	<script src="/ru/washing-machines/truesteam/js/jquery-2.2.3.min.js?v=1574571412263"></script>
-	<script src="/ru/washing-machines/truesteam/js/jquery-ui.min.js?v=1574571412263"></script>
-	<script src="/ru/washing-machines/truesteam/js/owl.carousel.min.js?v=1574571412263"></script>
-	<script src="/ru/washing-machines/truesteam/js/jquery.mCustomScrollbar.concat.min.js?v=1574571412263"></script>
-	<script src="/ru/washing-machines/truesteam/js/touch.js?v=1574571412263"></script>
+	<div class="popup-close"><img src="/ru/washing-machines/truesteam/img/close.png?v=1574634581364" alt=""></div>
+	<script src="/ru/washing-machines/truesteam/js/jquery-2.2.3.min.js?v=1574634581364"></script>
+	<script src="/ru/washing-machines/truesteam/js/jquery-ui.min.js?v=1574634581364"></script>
+	<script src="/ru/washing-machines/truesteam/js/owl.carousel.min.js?v=1574634581364"></script>
+	<script src="/ru/washing-machines/truesteam/js/jquery.mCustomScrollbar.concat.min.js?v=1574634581364"></script>
+	<script src="/ru/washing-machines/truesteam/js/touch.js?v=1574634581364"></script>
 	<script src="https://www.youtube.com/player_api"></script>
-	<script src="/ru/washing-machines/truesteam/js/script3.js?v=1574571412263"></script>
+	<script src="/ru/washing-machines/truesteam/js/script3.js?v=1574634581364"></script>
 
 	<script>
 		$(window).scroll(function () {

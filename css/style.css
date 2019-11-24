@@ -1217,15 +1217,11 @@ body.fixed {
         font-size: 18px;
         margin-bottom: 20px;
         margin-top: 10px;
-        display: -webkit-box;
-        display: -ms-flexbox;
-        display: flex; }
+        display: inline; }
         .section-wrap .product-section .content-col .tab-color.S3RERB {
           display: none; }
         .section-wrap .product-section .content-col .tab-color .color-item {
-          display: -webkit-box;
-          display: -ms-flexbox;
-          display: flex;
+          display: inline-block;
           -webkit-box-align: center;
               -ms-flex-align: center;
                   align-items: center;
@@ -1241,14 +1237,18 @@ body.fixed {
             .section-wrap .product-section .content-col .tab-color .color-item.active .color {
               border: 2px solid #A50034; }
         .section-wrap .product-section .content-col .tab-color .color {
+          display: inline-block;
           width: 24px;
           height: 24px;
+          vertical-align: middle;
           margin-right: 15px;
           border: 2px solid transparent;
           border-radius: 50%; }
           .section-wrap .product-section .content-col .tab-color .color.white {
             border: 2px solid #D6D6D6; }
         .section-wrap .product-section .content-col .tab-color .color-text {
+          display: inline-block;
+          vertical-align: bottom;
           color: #0B0B0B;
           font-family: lg_smartlight; }
       .section-wrap .product-section .content-col .tab-model-button {
@@ -2292,7 +2292,8 @@ body.fixed {
 
 .footer-cta-wrap {
   width: 100%;
-  height: 80px; }
+  height: 90px;
+  background-color: #333; }
 
 .footer-cta {
   width: 100%;
@@ -2300,6 +2301,24 @@ body.fixed {
   padding: 10px 0;
   z-index: 2;
   height: 80px; }
+
+@media (min-width: 320px) {
+  .footer-cta {
+    padding: 10px 0;
+    height: 100px; }
+  .footer-cta-wrap {
+    height: 110px; } }
+
+@media (min-width: 486px) {
+  .footer-cta {
+    padding: 20px 0;
+    height: 80px; }
+  .footer-cta-wrap {
+    height: 90px; } }
+
+@media (min-width: 575px) {
+  .footer-cta {
+    padding: 20px 0; } }
 
 .footer-cta.static {
   width: 100%; }
@@ -2347,7 +2366,7 @@ body.fixed {
 
 @media only screen and (min-width: 768px) {
   .footer-cta {
-    padding: 15px 0; }
+    padding: 20px 0; }
   .footer-cta ul li {
     margin: 5px 1.5%; }
   .footer-cta ul li a {

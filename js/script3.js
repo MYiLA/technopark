@@ -112,7 +112,7 @@ initFilter();
 		$(this).addClass('active');
 		var model = $(this).data('model');
 		$('.tab-color').hide();
-		$('.tab-color.'+model).css({display: 'flex'});
+		$('.tab-color.'+model).css({display: 'inline-block'});
 		$('.features').hide();
 		if(model == "S3RERB") {
 			$('.S3RERB .color-item:first-child').trigger('click');

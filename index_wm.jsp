@@ -25,13 +25,13 @@
 	<meta property="og:description" content="Узнайте больше о возможностях и характеристиках стиральных машин LG с функцией пара True Steam. Где купить Стиральные машины LG с функцией пара True Steam в Москве, Санкт-Петербурге и в других регионах РФ на официальном сайте производителя."/>
 	<meta property="og:url" content="https://www.lg.com/ru/washing-machines/truesteam/">
 	<meta property="og:keywords" content="lg true steam, функция пара true steam, lg true steam характеристики, lg true steam стиральные машины, lg true steam новости, lg true steam релиз"/>
-	<meta property="og:image" content="https://www.lg.com/ru/washing-machines/truesteam/share-wm.jpg?v=1574571412263">
+	<meta property="og:image" content="https://www.lg.com/ru/washing-machines/truesteam/share-wm.jpg?v=1574634581364">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<%@ include file="/applications/ru/includes/styles.jsp"%>
-	<link rel="stylesheet" href="/ru/washing-machines/truesteam/css/owl.carousel.min.css?v=1574571412263">
-	<link rel="stylesheet" href="/ru/washing-machines/truesteam/css/jquery.mCustomScrollbar.min.css?v=1574571412263">
-	<link rel="stylesheet" href="/ru/washing-machines/truesteam/css/style.css?v=1574571412263">
-	<link rel="stylesheet" href="/ru/washing-machines/truesteam/css/style_wm.css?v=1574571412263">
+	<link rel="stylesheet" href="/ru/washing-machines/truesteam/css/owl.carousel.min.css?v=1574634581364">
+	<link rel="stylesheet" href="/ru/washing-machines/truesteam/css/jquery.mCustomScrollbar.min.css?v=1574634581364">
+	<link rel="stylesheet" href="/ru/washing-machines/truesteam/css/style.css?v=1574634581364">
+	<link rel="stylesheet" href="/ru/washing-machines/truesteam/css/style_wm.css?v=1574634581364">
 	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-4S9T"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -49,11 +49,11 @@
 <%@ include file="/applications/ru/includes/header.jsp"%>
 <div class="banner-wrap">
 	<div class="banner-main">
-		<!-- <img src="/ru/washing-machines/truesteam/img/main-banner.jpg?v=1574571412263" alt="" class="desk"> -->
-		<img src="/ru/washing-machines/truesteam/img/hero_ST-back_int.png?v=1574571412263" alt="" class="desk">
-		<img src="/ru/washing-machines/truesteam/img/hero_ST-front_int100.png?v=1574571412263" alt="" class="desk parallax">
+		<!-- <img src="/ru/washing-machines/truesteam/img/main-banner.jpg?v=1574634581364" alt="" class="desk"> -->
+		<img src="/ru/washing-machines/truesteam/img/hero_ST-back_int.png?v=1574634581364" alt="" class="desk">
+		<img src="/ru/washing-machines/truesteam/img/hero_ST-front_int100.png?v=1574634581364" alt="" class="desk parallax">
 
-		<img src="/ru/washing-machines/truesteam/img/main-banner_wm_mob.jpg?v=1574571412263" alt="" class="mob">
+		<img src="/ru/washing-machines/truesteam/img/main-banner_wm_mob.jpg?v=1574634581364" alt="" class="mob">
 		<div class="banner-text">
 			<div class="banner-logo">
 				<img src="/ru/washing-machines/truesteam/img/truesteam-logo.svg" alt="LG Truesteam">
@@ -109,7 +109,7 @@
 						Стиральные машины <br>с&nbsp;функцией пара
 					</div>
 					<div class="content-logo">
-						<img src="/ru/washing-machines/truesteam/img/truesteam-logo.svg?v=1574571412263" alt="Бережный уход за деликатными тканями">
+						<img src="/ru/washing-machines/truesteam/img/truesteam-logo.svg?v=1574634581364" alt="Бережный уход за деликатными тканями">
 					</div>
 				</div>
 				<div class="content-col big ">
@@ -125,10 +125,10 @@
 							*По данным внутренних исследований
 						</div>
 						<div class="real-bg">
-							<img src="/ru/washing-machines/truesteam/img/elements/wm-bg-left.jpg?v=1574571412263" alt="Защита от аллергии"  class="real-bg-img">
+							<img src="/ru/washing-machines/truesteam/img/elements/wm-bg-left.jpg?v=1574634581364" alt="Защита от аллергии"  class="real-bg-img">
 						</div>
-						<img src="/ru/washing-machines/truesteam/img/small-wash.png?v=1574571412263" alt="Защита от аллергии" class="small-wash">
-						<img src="/ru/washing-machines/truesteam/img/wm-feature-1.jpg?v=1574571412263" alt="Защита от аллергии" class="fake-bg">
+						<img src="/ru/washing-machines/truesteam/img/small-wash.png?v=1574634581364" alt="Защита от аллергии" class="small-wash">
+						<img src="/ru/washing-machines/truesteam/img/wm-feature-1.jpg?v=1574634581364" alt="Защита от аллергии" class="fake-bg">
 						<div class="feature-content white">
 							<div class="feature-title">
 								Защищает от&nbsp;аллергии
@@ -140,11 +140,11 @@
 					</div>
 				</div>
 				<div class="feature-img-col animate animate-right">
-					<img src="/ru/washing-machines/truesteam/video/wm_01.jpg?v=1574571412263" alt="" class="mob">
-					<video src="/ru/washing-machines/truesteam/video/wm_01.mp4?v=1574571412263" muted poster="/ru/washing-machines/truesteam/video/wm_01.jpg?v=1574571412263" class="desk" ></video>
+					<img src="/ru/washing-machines/truesteam/video/wm_01.jpg?v=1574634581364" alt="" class="mob">
+					<video src="/ru/washing-machines/truesteam/video/wm_01.mp4?v=1574634581364" muted poster="/ru/washing-machines/truesteam/video/wm_01.jpg?v=1574634581364" class="desk" ></video>
 					<div class="feature-point">
 						<div class="point-img animate animate-right">
-							<img src="/ru/washing-machines/truesteam/img/wm-ico-1.png?v=1574571412263" alt="Защита от аллергии">
+							<img src="/ru/washing-machines/truesteam/img/wm-ico-1.png?v=1574634581364" alt="Защита от аллергии">
 						</div>
 						<div class="point-text animate">
 							Собаки могут быть переносчиками аллергенов
@@ -156,10 +156,10 @@
 				<div class="feature-content-col ">
 					<div class="feature-col-inner">
 						<div class="real-bg">
-							<img src="/ru/washing-machines/truesteam/img/elements/wm-bg-right.jpg?v=1574571412263" alt="Устранение запахов благодаря функции пара"  class="real-bg-img">
+							<img src="/ru/washing-machines/truesteam/img/elements/wm-bg-right.jpg?v=1574634581364" alt="Устранение запахов благодаря функции пара"  class="real-bg-img">
 						</div>
-						<img src="/ru/washing-machines/truesteam/img/small-wash.png?v=1574571412263" alt="Защита от аллергии" class="small-wash">
-						<img src="/ru/washing-machines/truesteam/img/wm-feature-4.jpg?v=1574571412263" alt="Устранение запахов благодаря функции пара" class="fake-bg">
+						<img src="/ru/washing-machines/truesteam/img/small-wash.png?v=1574634581364" alt="Защита от аллергии" class="small-wash">
+						<img src="/ru/washing-machines/truesteam/img/wm-feature-4.jpg?v=1574634581364" alt="Устранение запахов благодаря функции пара" class="fake-bg">
 						<div class="feature-content white">
 							<div class="feature-title">
 								Смягчает вещи и&nbsp;облегчает глажку
@@ -171,11 +171,11 @@
 					</div>
 				</div>
 				<div class="feature-img-col animate animate-left">
-					<img src="/ru/washing-machines/truesteam/video/wm_04.jpg?v=1574571412263" alt="" class="mob">
-					<video src="/ru/washing-machines/truesteam/video/wm_04.mp4?v=1574571412263" poster="/ru/washing-machines/truesteam/video/wm_04.jpg?v=1574571412263" muted class="desk"></video>
+					<img src="/ru/washing-machines/truesteam/video/wm_04.jpg?v=1574634581364" alt="" class="mob">
+					<video src="/ru/washing-machines/truesteam/video/wm_04.mp4?v=1574634581364" poster="/ru/washing-machines/truesteam/video/wm_04.jpg?v=1574634581364" muted class="desk"></video>
 					<div class="feature-point">
 						<div class="point-img animate animate-right">
-							<img src="/ru/washing-machines/truesteam/img/wm-ico-4.png?v=1574571412263" alt="Устранение запахов благодаря функции пара">
+							<img src="/ru/washing-machines/truesteam/img/wm-ico-4.png?v=1574634581364" alt="Устранение запахов благодаря функции пара">
 						</div>
 						<div class="point-text animate ">
 							Мне не нужен утюг
@@ -187,10 +187,10 @@
 				<div class="feature-content-col ">
 					<div class="feature-col-inner">
 						<div class="real-bg">
-							<img src="/ru/washing-machines/truesteam/img/elements/wm-bg-left.jpg?v=1574571412263" alt="Стирка без химикатов"  class="real-bg-img">
+							<img src="/ru/washing-machines/truesteam/img/elements/wm-bg-left.jpg?v=1574634581364" alt="Стирка без химикатов"  class="real-bg-img">
 						</div>
-						<img src="/ru/washing-machines/truesteam/img/small-wash.png?v=1574571412263" alt="Защита от аллергии" class="small-wash">
-						<img src="/ru/washing-machines/truesteam/img/wm-feature-3.jpg?v=1574571412263" alt="Стирка без химикатов" class="fake-bg">
+						<img src="/ru/washing-machines/truesteam/img/small-wash.png?v=1574634581364" alt="Защита от аллергии" class="small-wash">
+						<img src="/ru/washing-machines/truesteam/img/wm-feature-3.jpg?v=1574634581364" alt="Стирка без химикатов" class="fake-bg">
 						<div class="feature-content white">
 							<div class="feature-title">
 								Освежает без&nbsp;химикатов
@@ -202,11 +202,11 @@
 					</div>
 				</div>
 				<div class="feature-img-col animate animate-left">
-					<img src="/ru/washing-machines/truesteam/video/wm_03.jpg?v=1574571412263" alt="" class="mob">
-					<video src="/ru/washing-machines/truesteam/video/wm_03.mp4?v=1574571412263" poster="/ru/washing-machines/truesteam/video/wm_03.jpg?v=1574571412263" muted class="desk"></video>
+					<img src="/ru/washing-machines/truesteam/video/wm_03.jpg?v=1574634581364" alt="" class="mob">
+					<video src="/ru/washing-machines/truesteam/video/wm_03.mp4?v=1574634581364" poster="/ru/washing-machines/truesteam/video/wm_03.jpg?v=1574634581364" muted class="desk"></video>
 					<div class="feature-point">
 						<div class="point-img animate animate-right">
-							<img src="/ru/washing-machines/truesteam/img/wm-ico-3.png?v=1574571412263" alt="Стирка без химикатов">
+							<img src="/ru/washing-machines/truesteam/img/wm-ico-3.png?v=1574634581364" alt="Стирка без химикатов">
 						</div>
 						<div class="point-text animate ">
 							Ой, вся в пыльце
@@ -218,10 +218,10 @@
 				<div class="feature-content-col ">
 					<div class="feature-col-inner">
 						<div class="real-bg">
-							<img src="/ru/washing-machines/truesteam/img/elements/wm-bg-right.jpg?v=1574571412263" alt="Превосходное качество стирки" class="real-bg-img">
+							<img src="/ru/washing-machines/truesteam/img/elements/wm-bg-right.jpg?v=1574634581364" alt="Превосходное качество стирки" class="real-bg-img">
 						</div>
-						<img src="/ru/washing-machines/truesteam/img/small-wash.png?v=1574571412263" alt="Защита от аллергии" class="small-wash">
-						<img src="/ru/washing-machines/truesteam/img/wm-feature-2.jpg?v=1574571412263" alt=Превосходное качество стиркии" class="fake-bg">
+						<img src="/ru/washing-machines/truesteam/img/small-wash.png?v=1574634581364" alt="Защита от аллергии" class="small-wash">
+						<img src="/ru/washing-machines/truesteam/img/wm-feature-2.jpg?v=1574634581364" alt=Превосходное качество стиркии" class="fake-bg">
 						<div class="feature-content white">
 							<div class="feature-title">
 								Обеспечивает высокое качество стирки
@@ -233,11 +233,11 @@
 					</div>
 				</div>
 				<div class="feature-img-col animate animate-left">
-					<img src="/ru/washing-machines/truesteam/video/wm_02.jpg?v=1574571412263" alt="" class="mob">
-					<video src="/ru/washing-machines/truesteam/video/wm_02.mp4?v=1574571412263" poster="/ru/washing-machines/truesteam/video/wm_02.jpg?v=1574571412263" muted class="desk"></video>
+					<img src="/ru/washing-machines/truesteam/video/wm_02.jpg?v=1574634581364" alt="" class="mob">
+					<video src="/ru/washing-machines/truesteam/video/wm_02.mp4?v=1574634581364" poster="/ru/washing-machines/truesteam/video/wm_02.jpg?v=1574634581364" muted class="desk"></video>
 					<div class="feature-point">
 						<div class="point-img animate animate-left">
-							<img src="/ru/washing-machines/truesteam/img/wm-ico-2.png?v=1574571412263" alt="Превосходное качество стирки">
+							<img src="/ru/washing-machines/truesteam/img/wm-ico-2.png?v=1574634581364" alt="Превосходное качество стирки">
 						</div>
 						<div class="point-text animate ">
 							Сейчас вся испачкаюсь
@@ -249,10 +249,10 @@
 				<div class="feature-content-col hover-left">
 					<div class="feature-col-inner">
 						<div class="real-bg">
-							<img src="/ru/washing-machines/truesteam/img/wm-feature-5.jpg?v=1574571412263" alt="Удаление складок на одежде без утюга"  class="real-bg-img">
+							<img src="/ru/washing-machines/truesteam/img/wm-feature-5.jpg?v=1574634581364" alt="Удаление складок на одежде без утюга"  class="real-bg-img">
 						</div>
-						<img src="/ru/washing-machines/truesteam/img/small-wash.png?v=1574571412263" alt="Защита от аллергии" class="small-wash">
-						<img src="/ru/washing-machines/truesteam/img/wm-feature-5.jpg?v=1574571412263" alt="Удаление складок на одежде без утюга" class="fake-bg">
+						<img src="/ru/washing-machines/truesteam/img/small-wash.png?v=1574634581364" alt="Защита от аллергии" class="small-wash">
+						<img src="/ru/washing-machines/truesteam/img/wm-feature-5.jpg?v=1574634581364" alt="Удаление складок на одежде без утюга" class="fake-bg">
 						<div class="feature-content white">
 							<div class="feature-title">
 								Смягчение ткани и последующая легкая глажка
@@ -264,11 +264,11 @@
 					</div>
 				</div>
 				<div class="feature-img-col animate animate-right">
-					<img src="/ru/washing-machines/truesteam/video/wm_05.jpg?v=1574571412263" alt="" class="mob">
-					<video src="/ru/washing-machines/truesteam/video/wm_05.mp4?v=1574571412263"  poster="/ru/washing-machines/truesteam/video/wm_05.jpg?v=1574571412263" muted class="desk"></video>
+					<img src="/ru/washing-machines/truesteam/video/wm_05.jpg?v=1574634581364" alt="" class="mob">
+					<video src="/ru/washing-machines/truesteam/video/wm_05.mp4?v=1574634581364"  poster="/ru/washing-machines/truesteam/video/wm_05.jpg?v=1574634581364" muted class="desk"></video>
 					<div class="feature-point">
 						<div class="point-img animate animate-right">
-							<img src="/ru/washing-machines/truesteam/img/wm-ico.png?v=1574571412263"  alt="Удаление складок на одежде без утюга">
+							<img src="/ru/washing-machines/truesteam/img/wm-ico.png?v=1574634581364"  alt="Удаление складок на одежде без утюга">
 						</div>
 						<div class="point-text animate">
 							Текст
@@ -280,10 +280,10 @@
 				<div class="feature-content-col  hover-left">
 					<div class="feature-col-inner">
 						<div class="real-bg">
-							<img src="/ru/washing-machines/truesteam/img/wm-feature-6.jpg?v=1574571412263" alt="Придание брюкам первоначального вида"  class="real-bg-img">
+							<img src="/ru/washing-machines/truesteam/img/wm-feature-6.jpg?v=1574634581364" alt="Придание брюкам первоначального вида"  class="real-bg-img">
 						</div>
-						<img src="/ru/washing-machines/truesteam/img/small-wash.png?v=1574571412263" alt="Защита от аллергии" class="small-wash">
-						<img src="/ru/washing-machines/truesteam/img/wm-feature-6.jpg?v=1574571412263" alt="Придание брюкам первоначального вида" class="fake-bg">
+						<img src="/ru/washing-machines/truesteam/img/small-wash.png?v=1574634581364" alt="Защита от аллергии" class="small-wash">
+						<img src="/ru/washing-machines/truesteam/img/wm-feature-6.jpg?v=1574634581364" alt="Придание брюкам первоначального вида" class="fake-bg">
 						<div class="feature-content white">
 							<div class="feature-title">
 								Освежение паром
@@ -295,11 +295,11 @@
 					</div>
 				</div>
 				<div class="feature-img-col animate animate-left">
-					<img src="/ru/washing-machines/truesteam/video/wm_06.jpg?v=1574571412263" alt="" class="mob">
-					<video src="/ru/washing-machines/truesteam/video/wm_06.mp4?v=1574571412263"  poster="/ru/washing-machines/truesteam/video/wm_06.jpg?v=1574571412263" muted class="desk"></video>
+					<img src="/ru/washing-machines/truesteam/video/wm_06.jpg?v=1574634581364" alt="" class="mob">
+					<video src="/ru/washing-machines/truesteam/video/wm_06.mp4?v=1574634581364"  poster="/ru/washing-machines/truesteam/video/wm_06.jpg?v=1574634581364" muted class="desk"></video>
 					<div class="feature-point">
 						<div class="point-img animate animate-left">
-							<img src="/ru/washing-machines/truesteam/img/wm-ico.png?v=1574571412263" alt="Придание брюкам первоначального вида">
+							<img src="/ru/washing-machines/truesteam/img/wm-ico.png?v=1574634581364" alt="Придание брюкам первоначального вида">
 						</div>
 						<div class="point-text animate">
 							Текст
@@ -311,10 +311,10 @@
 				<div class="feature-content-col  hover-left">
 					<div class="feature-col-inner">
 						<div class="real-bg">
-							<img src="/ru/washing-machines/truesteam/img/wm-feature-7.jpg?v=1574571412263" alt="Придание брюкам первоначального вида"  class="real-bg-img">
+							<img src="/ru/washing-machines/truesteam/img/wm-feature-7.jpg?v=1574634581364" alt="Придание брюкам первоначального вида"  class="real-bg-img">
 						</div>
-						<img src="/ru/washing-machines/truesteam/img/small-wash.png?v=1574571412263" alt="Защита от аллергии" class="small-wash">
-						<img src="/ru/washing-machines/truesteam/img/wm-feature-7.jpg?v=1574571412263" alt="Придание брюкам первоначального вида" class="fake-bg">
+						<img src="/ru/washing-machines/truesteam/img/small-wash.png?v=1574634581364" alt="Защита от аллергии" class="small-wash">
+						<img src="/ru/washing-machines/truesteam/img/wm-feature-7.jpg?v=1574634581364" alt="Придание брюкам первоначального вида" class="fake-bg">
 						<div class="feature-content white">
 							<div class="feature-title">
 								Деликатная стирка 
@@ -326,11 +326,11 @@
 					</div>
 				</div>
 				<div class="feature-img-col animate animate-left">
-					<img src="/ru/washing-machines/truesteam/video/wm_07.jpg?v=1574571412263" alt="" class="mob">
-					<video src="/ru/washing-machines/truesteam/video/wm_07.mp4?v=1574571412263"  poster="/ru/washing-machines/truesteam/video/wm_07.jpg?v=1574571412263" muted class="desk"></video>
+					<img src="/ru/washing-machines/truesteam/video/wm_07.jpg?v=1574634581364" alt="" class="mob">
+					<video src="/ru/washing-machines/truesteam/video/wm_07.mp4?v=1574634581364"  poster="/ru/washing-machines/truesteam/video/wm_07.jpg?v=1574634581364" muted class="desk"></video>
 					<div class="feature-point">
 						<div class="point-img animate animate-left">
-							<img src="/ru/washing-machines/truesteam/img/wm-ico.png?v=1574571412263" alt="Придание брюкам первоначального вида">
+							<img src="/ru/washing-machines/truesteam/img/wm-ico.png?v=1574634581364" alt="Придание брюкам первоначального вида">
 						</div>
 						<div class="point-text animate">
 							Текст
@@ -354,18 +354,18 @@
 					<div id="player"></div>
 					<div class="gallery-item-inner" data-src="VFwmUTfP3Ws">
 						<div class="play">
-							<img src="/ru/washing-machines/truesteam/img/play.png?v=1574571412263" alt="">
+							<img src="/ru/washing-machines/truesteam/img/play.png?v=1574634581364" alt="">
 						</div>
-						<img src="/ru/washing-machines/truesteam/img/vid-1_wm.jpg?v=1574571412263" alt="LG Truesteam">
+						<img src="/ru/washing-machines/truesteam/img/vid-1_wm.jpg?v=1574634581364" alt="LG Truesteam">
 					</div>
 				</div>
 				<div class="gallery-list u-animate owl-carousel">
 					<div class="gallery-item">
 						<div class="gallery-item-inner" data-src="gZlaSbLFhVk" data-time="25">
 							<div class="play">
-								<img src="/ru/washing-machines/truesteam/img/play.png?v=1574571412263" alt="">
+								<img src="/ru/washing-machines/truesteam/img/play.png?v=1574634581364" alt="">
 							</div>
-							<img src="/ru/washing-machines/truesteam/img/01_HA-2.jpg?v=1574571412263" alt="Гипоаллергенный уход">
+							<img src="/ru/washing-machines/truesteam/img/01_HA-2.jpg?v=1574634581364" alt="Гипоаллергенный уход">
 						</div>
 						<div class="gallery-text">
 							Гипоалергенная обработка
@@ -375,9 +375,9 @@
 					<div class="gallery-item">
 						<div class="gallery-item-inner" data-src="gZlaSbLFhVk" data-time="72">
 							<div class="play">
-								<img src="/ru/washing-machines/truesteam/img/play.png?v=1574571412263" alt="">
+								<img src="/ru/washing-machines/truesteam/img/play.png?v=1574634581364" alt="">
 							</div>
-							<img src="/ru/washing-machines/truesteam/img/02_fresh_02-min.jpg?v=1574571412263" alt="Освежение и удаление складок">
+							<img src="/ru/washing-machines/truesteam/img/02_fresh_02-min.jpg?v=1574634581364" alt="Освежение и удаление складок">
 						</div>
 						<div class="gallery-text">
 							Освежение и&nbsp;удаление складок
@@ -386,9 +386,9 @@
 					<div class="gallery-item">
 						<div class="gallery-item-inner" data-src="gZlaSbLFhVk" data-time="114">
 							<div class="play">
-								<img src="/ru/washing-machines/truesteam/img/play.png?v=1574571412263" alt="">
+								<img src="/ru/washing-machines/truesteam/img/play.png?v=1574634581364" alt="">
 							</div>
-							<img src="/ru/washing-machines/truesteam/img/03_steam-min.jpg?v=1574571412263" alt="Смягчение одежды паром">
+							<img src="/ru/washing-machines/truesteam/img/03_steam-min.jpg?v=1574634581364" alt="Смягчение одежды паром">
 						</div>
 						<div class="gallery-text">
 							Смягчение одежды паром
@@ -397,9 +397,9 @@
 					<div class="gallery-item">
 						<div class="gallery-item-inner" data-src="gZlaSbLFhVk" data-time="159">
 							<div class="play">
-								<img src="/ru/washing-machines/truesteam/img/play.png?v=1574571412263" alt="">
+								<img src="/ru/washing-machines/truesteam/img/play.png?v=1574634581364" alt="">
 							</div>
-							<img src="/ru/washing-machines/truesteam/img/04_quality-min.jpg?v=1574571412263" alt="Высокое качество стирки">
+							<img src="/ru/washing-machines/truesteam/img/04_quality-min.jpg?v=1574634581364" alt="Высокое качество стирки">
 						</div>
 						<div class="gallery-text">
 							Высокое качество стирки
@@ -491,7 +491,7 @@
 			         <div class="price">21&nbsp;590&nbsp;₽
 			            <div class="price-info">
 			               <a href="javascript:void(0);" class="tooltip-button">
-			                  <img class="owl-lazy" src="" data-src="/ru/washing-machines/truesteam/img/i.png?v=1574571412263" alt="">
+			                  <img class="owl-lazy" src="" data-src="/ru/washing-machines/truesteam/img/i.png?v=1574634581364" alt="">
 			               </a>
 			               <div class="tooltip">
 			                  Пожалуйста, примите во&nbsp;внимание, что политика ООО ЛГ&nbsp;Электроникс РУС предполагает полную самостоятельность компаний в&nbsp;установлении порядка ценообразования. ООО ЛГ&nbsp;Электроникс РУC&nbsp;не следует указаниям хозяйствующих субъектов по&nbsp;установлению цен на&nbsp;товары. Цены, рекомендуемые ООО ЛГ&nbsp;Электроникс РУС своим контрагентам, носят исключительно информационный (рекомендательный) характер.
@@ -550,7 +550,7 @@
 						<div class="price"> 55&nbsp;990&nbsp;₽
 							<div class="price-info">
 								<a href="javascript:void(0);" class="tooltip-button">
-									<img class="owl-lazy" src="" data-src="/ru/washing-machines/truesteam/img/i.png?v=1574571412263" alt="">
+									<img class="owl-lazy" src="" data-src="/ru/washing-machines/truesteam/img/i.png?v=1574634581364" alt="">
 								</a>
 								<div class="tooltip">
 									Пожалуйста, примите во&nbsp;внимание, что политика ООО ЛГ&nbsp;Электроникс РУС предполагает полную самостоятельность компаний в&nbsp;установлении порядка ценообразования. ООО ЛГ&nbsp;Электроникс РУC&nbsp;не следует указаниям хозяйствующих субъектов по&nbsp;установлению цен на&nbsp;товары. Цены, рекомендуемые ООО ЛГ&nbsp;Электроникс РУС своим контрагентам, носят исключительно информационный (рекомендательный) характер.
@@ -583,7 +583,7 @@
 						<div class="price">52&nbsp;990&nbsp;₽
 							<div class="price-info">
 								<a href="javascript:void(0);" class="tooltip-button">
-									<img class="owl-lazy" src="" data-src="/ru/washing-machines/truesteam/img/i.png?v=1574571412263" alt="">
+									<img class="owl-lazy" src="" data-src="/ru/washing-machines/truesteam/img/i.png?v=1574634581364" alt="">
 								</a>
 								<div class="tooltip">
 									Пожалуйста, примите во&nbsp;внимание, что политика ООО ЛГ&nbsp;Электроникс РУС предполагает полную самостоятельность компаний в&nbsp;установлении порядка ценообразования. ООО ЛГ&nbsp;Электроникс РУC&nbsp;не следует указаниям хозяйствующих субъектов по&nbsp;установлению цен на&nbsp;товары. Цены, рекомендуемые ООО ЛГ&nbsp;Электроникс РУС своим контрагентам, носят исключительно информационный (рекомендательный) характер.
@@ -652,7 +652,7 @@
 						<div class="price">41&nbsp;990&nbsp;₽
 							<div class="price-info">
 								<a href="javascript:void(0);" class="tooltip-button">
-									<img class="owl-lazy" src="" data-src="/ru/washing-machines/truesteam/img/i.png?v=1574571412263" alt="">
+									<img class="owl-lazy" src="" data-src="/ru/washing-machines/truesteam/img/i.png?v=1574634581364" alt="">
 								</a>
 								<div class="tooltip">
 									Пожалуйста, примите во&nbsp;внимание, что политика ООО ЛГ&nbsp;Электроникс РУС предполагает полную самостоятельность компаний в&nbsp;установлении порядка ценообразования. ООО ЛГ&nbsp;Электроникс РУC&nbsp;не следует указаниям хозяйствующих субъектов по&nbsp;установлению цен на&nbsp;товары. Цены, рекомендуемые ООО ЛГ&nbsp;Электроникс РУС своим контрагентам, носят исключительно информационный (рекомендательный) характер.
@@ -697,7 +697,7 @@
 						<div class="price">39&nbsp;990&nbsp;₽
 							<div class="price-info">
 								<a href="javascript:void(0);" class="tooltip-button">
-									<img class="owl-lazy" src="" data-src="/ru/washing-machines/truesteam/img/i.png?v=1574571412263" alt="">
+									<img class="owl-lazy" src="" data-src="/ru/washing-machines/truesteam/img/i.png?v=1574634581364" alt="">
 								</a>
 								<div class="tooltip">
 									Пожалуйста, примите во&nbsp;внимание, что политика ООО ЛГ&nbsp;Электроникс РУС предполагает полную самостоятельность компаний в&nbsp;установлении порядка ценообразования. ООО ЛГ&nbsp;Электроникс РУC&nbsp;не следует указаниям хозяйствующих субъектов по&nbsp;установлению цен на&nbsp;товары. Цены, рекомендуемые ООО ЛГ&nbsp;Электроникс РУС своим контрагентам, носят исключительно информационный (рекомендательный) характер.
@@ -815,7 +815,7 @@
 						<div class="price">109&nbsp;990&nbsp;₽
 							<div class="price-info">
 								<a href="javascript:void(0);" class="tooltip-button">
-									<img class="owl-lazy" src="" data-src="/ru/washing-machines/truesteam/img/i.png?v=1574571412263" alt="">
+									<img class="owl-lazy" src="" data-src="/ru/washing-machines/truesteam/img/i.png?v=1574634581364" alt="">
 								</a>
 								<div class="tooltip">
 									Пожалуйста, примите во&nbsp;внимание, что политика ООО ЛГ&nbsp;Электроникс РУС предполагает полную самостоятельность компаний в&nbsp;установлении порядка ценообразования. ООО ЛГ&nbsp;Электроникс РУC&nbsp;не следует указаниям хозяйствующих субъектов по&nbsp;установлению цен на&nbsp;товары. Цены, рекомендуемые ООО ЛГ&nbsp;Электроникс РУС своим контрагентам, носят исключительно информационный (рекомендательный) характер.
@@ -958,7 +958,7 @@
 						<div class="price">49&nbsp;990&nbsp;₽
 							<div class="price-info">
 								<a href="javascript:void(0);" class="tooltip-button">
-									<img class="owl-lazy" src="" data-src="/ru/washing-machines/truesteam/img/i.png?v=1574571412263" alt="">
+									<img class="owl-lazy" src="" data-src="/ru/washing-machines/truesteam/img/i.png?v=1574634581364" alt="">
 								</a>
 								<div class="tooltip">
 									Пожалуйста, примите во&nbsp;внимание, что политика ООО ЛГ&nbsp;Электроникс РУС предполагает полную самостоятельность компаний в&nbsp;установлении порядка ценообразования. ООО ЛГ&nbsp;Электроникс РУC&nbsp;не следует указаниям хозяйствующих субъектов по&nbsp;установлению цен на&nbsp;товары. Цены, рекомендуемые ООО ЛГ&nbsp;Электроникс РУС своим контрагентам, носят исключительно информационный (рекомендательный) характер.
@@ -1051,7 +1051,7 @@
 						<div class="price">39&nbsp;590&nbsp;₽
 							<div class="price-info">
 								<a href="javascript:void(0);" class="tooltip-button">
-									<img class="owl-lazy" src="" data-src="/ru/washing-machines/truesteam/img/i.png?v=1574571412263" alt="">
+									<img class="owl-lazy" src="" data-src="/ru/washing-machines/truesteam/img/i.png?v=1574634581364" alt="">
 								</a>
 								<div class="tooltip">
 									Пожалуйста, примите во&nbsp;внимание, что политика ООО ЛГ&nbsp;Электроникс РУС предполагает полную самостоятельность компаний в&nbsp;установлении порядка ценообразования. ООО ЛГ&nbsp;Электроникс РУC&nbsp;не следует указаниям хозяйствующих субъектов по&nbsp;установлению цен на&nbsp;товары. Цены, рекомендуемые ООО ЛГ&nbsp;Электроникс РУС своим контрагентам, носят исключительно информационный (рекомендательный) характер.
@@ -1108,7 +1108,7 @@
 						<div class="price">49&nbsp;990&nbsp;₽
 							<div class="price-info">
 								<a href="javascript:void(0);" class="tooltip-button">
-									<img class="owl-lazy" src="" data-src="/ru/washing-machines/truesteam/img/i.png?v=1574571412263" alt="">
+									<img class="owl-lazy" src="" data-src="/ru/washing-machines/truesteam/img/i.png?v=1574634581364" alt="">
 								</a>
 								<div class="tooltip">
 									Пожалуйста, примите во&nbsp;внимание, что политика ООО ЛГ&nbsp;Электроникс РУС предполагает полную самостоятельность компаний в&nbsp;установлении порядка ценообразования. ООО ЛГ&nbsp;Электроникс РУC&nbsp;не следует указаниям хозяйствующих субъектов по&nbsp;установлению цен на&nbsp;товары. Цены, рекомендуемые ООО ЛГ&nbsp;Электроникс РУС своим контрагентам, носят исключительно информационный (рекомендательный) характер.
@@ -1141,7 +1141,7 @@
 			         <div class="price">300&nbsp;000&nbsp;₽
 			            <div class="price-info">
 			               <a href="javascript:void(0);" class="tooltip-button">
-			                  <img class="owl-lazy" src="" data-src="/ru/washing-machines/truesteam/img/i.png?v=1574571412263" alt="">
+			                  <img class="owl-lazy" src="" data-src="/ru/washing-machines/truesteam/img/i.png?v=1574634581364" alt="">
 			               </a>
 			               <div class="tooltip">
 			                  Пожалуйста, примите во&nbsp;внимание, что политика ООО ЛГ&nbsp;Электроникс РУС предполагает полную самостоятельность компаний в&nbsp;установлении порядка ценообразования. ООО ЛГ&nbsp;Электроникс РУC&nbsp;не следует указаниям хозяйствующих субъектов по&nbsp;установлению цен на&nbsp;товары. Цены, рекомендуемые ООО ЛГ&nbsp;Электроникс РУС своим контрагентам, носят исключительно информационный (рекомендательный) характер.
@@ -1160,7 +1160,7 @@
 		<div class="no-products">
 			Не найдено товаров с данной комбинацией характеристик. Пожалуйста, попробуйте сменить параметры фильтра.
 		</div>
-			<!-- <img src="/ru/washing-machines/truesteam/img/trstm_wtb.jpg?v=1574571412263" alt=""> -->
+			<!-- <img src="/ru/washing-machines/truesteam/img/trstm_wtb.jpg?v=1574634581364" alt=""> -->
 	</div>
 </div>
 <div class="footer-cta">
@@ -1177,14 +1177,14 @@
 	<div class="video-wrapper"></div>
 </div>
 
-<div class="popup-close"><img src="/ru/washing-machines/truesteam/img/close.png?v=1574571412263" alt=""></div>
-<script src="/ru/washing-machines/truesteam/js/jquery-2.2.3.min.js?v=1574571412263"></script>
-<script src="/ru/washing-machines/truesteam/js/jquery-ui.min.js?v=1574571412263"></script>
-<script src="/ru/washing-machines/truesteam/js/owl.carousel.min.js?v=1574571412263"></script>
-<script src="/ru/washing-machines/truesteam/js/jquery.mCustomScrollbar.concat.min.js?v=1574571412263"></script>
-<script src="/ru/washing-machines/truesteam/js/touch.js?v=1574571412263"></script>
+<div class="popup-close"><img src="/ru/washing-machines/truesteam/img/close.png?v=1574634581364" alt=""></div>
+<script src="/ru/washing-machines/truesteam/js/jquery-2.2.3.min.js?v=1574634581364"></script>
+<script src="/ru/washing-machines/truesteam/js/jquery-ui.min.js?v=1574634581364"></script>
+<script src="/ru/washing-machines/truesteam/js/owl.carousel.min.js?v=1574634581364"></script>
+<script src="/ru/washing-machines/truesteam/js/jquery.mCustomScrollbar.concat.min.js?v=1574634581364"></script>
+<script src="/ru/washing-machines/truesteam/js/touch.js?v=1574634581364"></script>
 <script src="https://www.youtube.com/player_api"></script>
-<script src="/ru/washing-machines/truesteam/js/script3.js?v=1574571412263"></script>
+<script src="/ru/washing-machines/truesteam/js/script3.js?v=1574634581364"></script>
 
 <script>
 	$(window).scroll(function(){
