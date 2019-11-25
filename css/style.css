@@ -2309,7 +2309,7 @@ body.fixed {
   .footer-cta-wrap {
     height: 110px; } }
 
-@media (min-width: 486px) {
+@media (min-width: 503px) {
   .footer-cta {
     padding: 20px 0;
     height: 80px; }
